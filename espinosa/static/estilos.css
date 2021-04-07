@@ -11,3 +11,19 @@ body{
 	color: white;
 	text-align: center;
 }
+#img1{
+max-width: 55%;
+height: auto;
+margin: 20px;
+padding: 5px;
+display: block;
+margin: auto;
+}
+#img2{
+max-width: 55%;
+height: auto;
+margin: 20px;
+padding: 5px;
+display: block;
+margin: auto;
+}
